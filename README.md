@@ -21,7 +21,7 @@ Horiseon website code redesign adding semantic elements, better structure, acces
 * Right click on index.html and select open with (preferred browser)
 
 ### Usage
-![ScreenShot](assets/images/screenshot1.PNG)
+![ScreenShot](assets/images/screenshot1.png)
 
 Website header can be clicked on to take user to the relevant section of the page
 
